@@ -1,3 +1,5 @@
+#http://usefulscripting.network/powershell/uppercase-user-input/
+
 $givenname = Read-Host "First Name" 
 
 $sn = Read-Host "Last Name" 
